@@ -1,0 +1,18 @@
+*{
+    background-color: antiquewhite;
+}
+
+form{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    width: 100%;
+}
+
+.form-input{
+    padding: 1rem;
+}
+
+.form-input input{
+    width: 100%;
+}
